@@ -12,16 +12,17 @@ CS202-IT-Workshop-Lab/
 ├── README.md
 ├── LICENSE
 │
-├── Assignment_01/
-├── Assignment_02/
-├── Assignment_03/
-├── Assignment_04/
-├── Assignment_05/
-├── Assignment_06/
-├── Assignment_07/
-├── Assignment_08/
-├── Assignment_09/
-└── Assignment_10/
+├── Lab_01/
+├── Lab_02/
+├── Lab_03/
+├── Lab_04/
+├── Lab_05/
+├── Lab_06/
+├── Lab_07/
+├── Lab_08/
+├── Lab_09/
+└── Lab_10/
+└── Lab_11/
 ```
 
 ---
