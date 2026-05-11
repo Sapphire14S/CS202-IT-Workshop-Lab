@@ -1,1 +1,95 @@
-# CS202-IT-Workshop-Lab
+# CS202 — IT Workshop Lab
+
+Repository containing Java programming assignments, object-oriented programming concepts, and laboratory work completed for the **CS202 IT Workshop Lab** course at **Indian Institute of Information Technology Guwahati (IIITG)**.
+
+---
+
+## Repository Structure
+
+```text
+CS202-IT-Workshop-Lab/
+│
+├── README.md
+├── LICENSE
+│
+├── Assignment_01/
+├── Assignment_02/
+├── Assignment_03/
+├── Assignment_04/
+├── Assignment_05/
+├── Assignment_06/
+├── Assignment_07/
+├── Assignment_08/
+├── Assignment_09/
+└── Assignment_10/
+```
+
+---
+
+## Laboratory Overview
+
+This repository contains practical assignments and implementations focused on Java programming, object-oriented design principles, class relationships, exception handling, GUI development, and software engineering fundamentals.
+
+---
+
+## Topics Covered
+
+- Java Programming Fundamentals
+- Object-Oriented Programming (OOP)
+- Classes and Objects
+- Constructors and Methods
+- Inheritance
+- Polymorphism
+- Abstraction
+- Encapsulation
+- Arrays and Collections
+- Exception Handling
+- File Handling
+- Static Members and Blocks
+- Sorting and Searching
+- GUI Programming
+- Menu-Driven Applications
+
+---
+
+## Technologies Used
+
+- Java
+- Object-Oriented Programming Principles
+
+---
+
+## Key Concepts Implemented
+
+- Class Design and Modelling
+- UML-Based Problem Solving
+- Object Relationships
+- Dynamic Memory Management
+- Modular Programming
+- Data Validation
+- Exception Handling Mechanisms
+- Collection Manipulation
+- Recursive Problem Solving
+- Interactive Console Applications
+
+---
+
+## Academic Information
+
+- **Course:** CS202 — IT Workshop Lab
+- **Institute:** Indian Institute of Information Technology Guwahati
+- **Department:** Computer Science and Engineering
+
+---
+
+## Author
+
+**Shivank Kumar**  
+B.Tech — Computer Science and Engineering  
+Indian Institute of Information Technology Guwahati
+
+---
+
+## License
+
+This repository is licensed under the MIT License.
