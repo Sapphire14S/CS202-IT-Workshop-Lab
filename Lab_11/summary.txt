@@ -1,0 +1,4 @@
+>            Summary of Files             
+file1.txt -> Lines: 3, Words: 15, Characters: 74
+file3.txt -> Lines: 8, Words: 13, Characters: 116
+file2.txt -> Lines: 3, Words: 15, Characters: 125

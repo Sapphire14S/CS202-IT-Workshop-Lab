@@ -1,0 +1,3 @@
+Hello, this is file one.
+It contains three lines.
+Each line has a few words.
