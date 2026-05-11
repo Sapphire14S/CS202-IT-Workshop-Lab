@@ -75,14 +75,6 @@ This repository contains practical assignments and implementations focused on Ja
 
 ---
 
-## Academic Information
-
-- **Course:** CS202 — IT Workshop Lab
-- **Institute:** Indian Institute of Information Technology Guwahati
-- **Department:** Computer Science and Engineering
-
----
-
 ## Author
 
 **Shivank Kumar**  
