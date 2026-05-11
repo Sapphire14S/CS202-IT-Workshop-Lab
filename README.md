@@ -60,21 +60,6 @@ This repository contains practical assignments and implementations focused on Ja
 
 ---
 
-## Key Concepts Implemented
-
-- Class Design and Modelling
-- UML-Based Problem Solving
-- Object Relationships
-- Dynamic Memory Management
-- Modular Programming
-- Data Validation
-- Exception Handling Mechanisms
-- Collection Manipulation
-- Recursive Problem Solving
-- Interactive Console Applications
-
----
-
 ## Author
 
 **Shivank Kumar**  
